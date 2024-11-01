@@ -8,10 +8,7 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "https://www.linkedin.com/in/touseef-ahmed-7253a0238" # Add your LinkedIn profile URL here
 
 - type: rss
   icon: "fas fa-rss"

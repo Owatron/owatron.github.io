@@ -12,14 +12,14 @@ image: /assets/posts/Spooky/banner.png
 Title | Link
 --- | ---
 Steg | [Link](/posts/spookyctf-steg/)
+Forensics | [Link](/posts/spookyctf-forensics/) 
 
-Work in Progress...
 
--- | --
-Forensics | [Link](/posts/spookyctf-forensics/)
 
 ## Overview
 
-Pretty fun CTF. I enjoyed the challenges. Also memory forensics = fun.
+Pretty fun CTF, I would rate it probably along the medium level. I enjoyed the challenges espicially forensics ones. Also memory forensics = fun.
+
+I found only forensics and stegnography challenges to be interesting and to make writeup out of it, Hope you find it interesting :wink: 
 
 ![stats](/assets/posts/Spooky/stats.png)
