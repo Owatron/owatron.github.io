@@ -10,9 +10,9 @@
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/touseef-ahmed-7253a0238" # Add your LinkedIn profile URL here
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: user
+  icon: "fa-solid fa-user" # Replace with the correct Font Awesome class for your icon, or add an image URL if using a custom image
+  url: "https://owatron.github.io/portfolio/" # Replace with your custom link
 
 # Uncomment and complete the url below to enable more contact options
 #

@@ -28,8 +28,8 @@ url: "https://owatron.github.io"
 github:
   username: Owatron # change to your github username
 
-twitter:
-  username: Owatron009 # change to your twitter username
+#twitter:
+ # username: Owatron009 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,13 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/Owatron009  # change to your twitter homepage
-    - https://github.com/owatron # change to your github homepage
+    - https://www.linkedin.com/in/touseef-ahmed-7253a0238 # LinkedIn profile link
+    - https://x.com/Owatron009  # Twitter link removed
+    - https://github.com/owatron # GitHub profile link
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/touseef-ahmed-7253a0238
+
+    
 
 # Site Verification Settings
 webmaster_verifications:
