@@ -6,8 +6,7 @@ order: 4
 
 ## Hi
 
-I am Cook1e... that's it for now. I'll update later.
+Owatron here ! ... nothing interesting to share for . Hopefully will have tons to share later.
 
-Have a cookie 🍪
 
 Currently playing with the team [M0NST3RDECK](https://ctftime.org/team/309454)

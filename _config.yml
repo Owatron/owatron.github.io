@@ -14,35 +14,35 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cook1e # the main title
+title: Owatron # the main title
 
-tagline: I am Cook1e, I like CTFs # it will display as the sub-title
+tagline: Owatron here , A weebo and a cyber enthusio # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Umm, Hii.. ? CTF Notes and Writeups, I guess.
+  Umm , Hola.. ? CTF Writeups and intresting stuff, I guess.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://p-pratik.github.io"
+url: "https://owatron.github.io"
 
 github:
-  username: P-Pratik # change to your github username
+  username: Owatron # change to your github username
 
 twitter:
-  username: RookieCookieFX # change to your twitter username
+  username: Owatron009 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Cookie 
+  name: Owatron 
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/RookieCookieFX # change to your twitter homepage
-    - https://github.com/P-Pratik # change to your github homepage
+    - https://x.com/Owatron009  # change to your twitter homepage
+    - https://github.com/owatron # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/touseef-ahmed-7253a0238
 
 # Site Verification Settings
 webmaster_verifications:
