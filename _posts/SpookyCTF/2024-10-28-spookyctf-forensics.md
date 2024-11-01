@@ -1,6 +1,6 @@
 ---
 title: Spooky CTF 2024 - Forensics
-date : 2024-10-28 05:00:00 +0530
+date : 2024-10-29 05:00:00 +0530
 categories: [ctf, spookyctf]
 tags: [spookyctf, ctf]
 description: Forensiscs Challenge Write-up
